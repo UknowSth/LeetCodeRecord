@@ -1,0 +1,3 @@
+A Record for LeetCode Problems...
+
+Especially those questions with clever solutions.
